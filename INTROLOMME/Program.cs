@@ -75,6 +75,6 @@ namespace INTROLOMME
             Console.WriteLine("3. Gange");
             Console.WriteLine("4. Dividere");
         }
-        // hej hej hej hej hej hej
+        // hej hej hej hej hej hej hogrider
     }
 }
