@@ -11,15 +11,7 @@ namespace INTROLOMME
     {
         static void Main(string[] args)
         {
-
-            int Resultat;
-            int Svar1 = Convert.ToInt32(Console.ReadLine());
-            int Svar2 = Convert.ToInt32(Console.ReadLine());
-
-
             
-
-
         }
     }
 }
