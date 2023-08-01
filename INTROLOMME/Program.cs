@@ -10,6 +10,14 @@ namespace INTROLOMME
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
+            int input = Convert.ToInt32(Console.ReadLine());
+
+
+
+
+
+
         }
     }
 }
