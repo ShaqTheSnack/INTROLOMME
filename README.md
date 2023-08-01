@@ -1,6 +1,6 @@
 # INTROLOMME 
 - Fil struktur 
-- Et repo 
+- Et repo per hovedførløb
 - Ingen adganskontrol 
 - Navngivning af filer ?? 
 - Kommentarer beskriver generelle formål for koden 
